@@ -1,4 +1,4 @@
-# rabbit mq sample
+# 🐇 rabbit mq sample
 
 run rabbitmq
 ```
